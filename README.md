@@ -1,2 +1,2 @@
 # Python Coding Challenges
-This project showcasing my practical experience in Python through the completion of coding exercises, demonstrating proficiency in key concepts and problem-solving skills. This assessment encompasses various topics, including data types, indexing, slicing, operators, in-built functions, statements, conditionals, loops, object-oriented programming, and exception handling.
+This assesment showcasing my practical experience in Python through the completion of coding exercises, demonstrating proficiency in key concepts and problem-solving skills. This assessment encompasses various topics, including data types, indexing, slicing, operators, in-built functions, statements, conditionals, loops, object-oriented programming, and exception handling.
